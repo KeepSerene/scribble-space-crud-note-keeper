@@ -59,7 +59,7 @@ A modern, responsive note-taking application built with React and TailwindCSS. S
 
 ## 🚀 Live Demo
 
-Check out the live demo: [Scribble Space Demo](https://your-demo-link.com)
+Check out the live demo: [Scribble Space Demo](https://scribble-space-theta.vercel.app/)
 
 ## 📂 Project Structure
 
